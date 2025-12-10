@@ -48,7 +48,7 @@ static void sensor_task(void *arg){
         //             Read sensor data and print it out as string; 
         tight_loop_contents(); 
 
-        chagnge here
+        chagnge here  fdfd
    
 
 
